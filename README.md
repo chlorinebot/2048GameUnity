@@ -1,2 +1,2 @@
 # 2048GameUnity
-![demo](demo.jpg)
+![demo](README/demo.png)
